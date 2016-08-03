@@ -1,11 +1,12 @@
+[![Install](https://img.shields.io/badge/Chrome%20browser%3F%20-%20Install%20extension-brightgreen.svg)](https://chrome.google.com/webstore/detail/no-noise-hacker-news/meeppdmpplgpkpgdlnhfagmplkmkjhnm/)
+
 # No Noise Hacker News - Chrome browser extension
 
-[![Install](https://img.shields.io/badge/Chrome%20browser%3F%20-%20Install%20extension-brightgreen.svg)](https://chrome.google.com/webstore/detail/no-noise-hacker-news/meeppdmpplgpkpgdlnhfagmplkmkjhnm/)
+
 
 Do you ever wish you could filter [Hacker News](https://news.ycombinator.com/) to avoid the noise? I am talking about the noise from big websites trying to push their content to HN hoping for a bigger audience. 
 
-## Why
-I have a feeling some websites sometimes think "_Let us push (all) the content and let the community sort out what is interesting_" while flooding the feed like a [Kudzu](https://en.wikipedia.org/wiki/Kudzu_in_the_United_States) of stories shadowing the light of attention (especially in the "new" section).
+I have a feeling some websites sometimes think _"Let us push (all) the content and let the community sort out what is interesting"_ while flooding the feed like a [Kudzu](https://en.wikipedia.org/wiki/Kudzu_in_the_United_States) of stories shadowing the light of attention (especially in the "new" section).
 
 
 
