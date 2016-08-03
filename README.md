@@ -18,7 +18,7 @@ This is the source of [the chrome extension No Noise Hacker News](https://chrome
 * Let the top bar icon get color when stories have been filtered
 * Clicking on the top bar icon gives you the option to reload the page with no stories filtered
 * Let the list of domains be updated with data for 2016 or the last X days
-* Let people add and remove listed domains by themself
+* Let people add and remove listed domains by themselves
 
 
 _PR very welcome_
@@ -29,16 +29,16 @@ _PR very welcome_
 #### Is this censoring? 
 - No, this is a way of limiting domains with a high amount of noise. 
 
-#### Will it hide a really interesting storry?
+#### Will it hide a really interesting story?
 - Yes, but any story that is number 1 will never be filtered (so if its really good, you will still see it)
 
 #### How can I see if anything is being filtered?
-The sequense of numbers at the left side will skip the ordner of natural numbers.
+The sequence of numbers at the left side will skip the order of natural numbers.
 
 #### I really want to see what is being filtered?
 Open the page in incognito mode to avoid filtering anything. 
 
-#### Can I alter the list of domains beinf filtered?
+#### Can I alter the list of domains being filtered?
 - Not right now, but that is where I want to go with this plugin. PRs are very welcome.
 
 #### What is being filtered 
@@ -84,4 +84,5 @@ At the moment the following domains are filtered:
 - networkworld.com
 
 See [`src/script.js`](https://github.com/mathiasrw/no-noise-hacker-news/blob/master/src/script.js) for more details on how the domains where found.
+
 
