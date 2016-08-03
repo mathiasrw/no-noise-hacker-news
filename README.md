@@ -12,7 +12,7 @@ I have a feeling some websites sometimes think _"Let us push (all) the content a
 
 
 
-This is the source of [the chrome extension No Noise Hacker News](https://chrome.google.com/webstore/detail/no-noise-hacker-news/meeppdmpplgpkpgdlnhfagmplkmkjhnm/) that filteres away stories from domains that - per november 2015 - had more than than 2500 submitted stories but less than 40% had more than 3 votes. See [`src/script.js`](https://github.com/mathiasrw/no-noise-hacker-news/blob/master/src/script.js) for more details on how the domains where found.
+This is the source of [the chrome extension No Noise Hacker News](https://chrome.google.com/webstore/detail/no-noise-hacker-news/meeppdmpplgpkpgdlnhfagmplkmkjhnm/) that filteres away stories from domains that - per november 2015 - had more than than 2500 submitted stories but less than 40% had more than 3 votes. See [`src/script.js`](https://github.com/mathiasrw/no-noise-hacker-news/blob/master/src/script.js) for more details on how the domains were found.
 
 ## Todo
 * Let the top bar icon get color when stories have been filtered
@@ -83,6 +83,6 @@ At the moment the following domains are filtered:
 - telegraph.co.uk
 - networkworld.com
 
-See [`src/script.js`](https://github.com/mathiasrw/no-noise-hacker-news/blob/master/src/script.js) for more details on how the domains where found.
+See [`src/script.js`](https://github.com/mathiasrw/no-noise-hacker-news/blob/master/src/script.js) for more details on how the domains were found.
 
 
