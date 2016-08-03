@@ -1,3 +1,5 @@
+_Chrome extension to avoid noisy domains in the Hacker News feed_
+
 [![Install](https://img.shields.io/badge/Chrome%20browser%3F%20-%20Install%20extension-brightgreen.svg)](https://chrome.google.com/webstore/detail/no-noise-hacker-news/meeppdmpplgpkpgdlnhfagmplkmkjhnm/)
 
 # No Noise Hacker News - Chrome browser extension
